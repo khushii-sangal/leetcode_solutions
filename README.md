@@ -4,9 +4,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
