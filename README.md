@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
