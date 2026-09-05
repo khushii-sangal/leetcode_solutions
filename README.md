@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
