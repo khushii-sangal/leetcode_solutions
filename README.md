@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
