@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 ## Greedy
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
