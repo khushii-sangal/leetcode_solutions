@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 <!---LeetCode Topics End-->
