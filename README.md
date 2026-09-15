@@ -98,8 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0268-missing-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
