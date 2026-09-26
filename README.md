@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0268-missing-number) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
@@ -121,9 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/khushii-sangal/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
