@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [2460-apply-operations-to-an-array](https://github.com/khushii-sangal/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0146-lru-cache) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
