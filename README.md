@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/khushii-sangal/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
