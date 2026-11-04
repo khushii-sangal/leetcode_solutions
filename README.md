@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/khushii-sangal/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/khushii-sangal/leetcode_solutions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
@@ -155,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/khushii-sangal/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushii-sangal/leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
